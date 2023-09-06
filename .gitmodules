@@ -1,3 +1,6 @@
 [submodule "themes/maverick"]
 	path = themes/maverick
 	url = https://github.com/canhtran/maverick.git
+[submodule "maverick"]
+	path = maverick
+	url = https://github.com/francisco-magana/maverick.git
