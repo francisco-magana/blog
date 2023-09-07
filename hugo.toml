@@ -21,8 +21,13 @@ theme = 'maverick'
     url = "/about/"
     weight = "-110"
   [[menu.main]]
+    identifier = "garden"
+    name = "Garden"
+    url = "/garden/"
+    weight = -200
+  [[menu.main]]
     identifier = "posts"
-    name = "Post"
+    name = "Posts"
     url = "/posts/"
     weight = -200
 
