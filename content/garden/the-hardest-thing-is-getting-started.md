@@ -1,6 +1,6 @@
 ---
 author: "Francisco Magaña"
-title: "The hardest thing is getting started"
+title: "🌱 The hardest thing is getting started"
 date: "2023-09-05"
 tags: [motivation, personal]
 ---
