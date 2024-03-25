@@ -1,7 +1,7 @@
 ---
 author: "Francisco Magaña"
 title: "🌱 Just 5 minutes"
-date: "2023-09-05"
+date: "2024-03-24"
 tags: [motivation, personal]
 ---
 
